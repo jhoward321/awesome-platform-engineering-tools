@@ -169,7 +169,6 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 - [OpenFeature: community-developed specification to standardise feature flag management](https://github.com/open-feature#welcome-to-the-openfeature-project-)
 - [Launchdarkly: feature flags paid service](https://launchdarkly.com/)
-- [Featureflip: flat-priced feature flag service that removes its own dead flags by pull request](https://featureflip.io/)
 - [Git Guide: Generate A Changelog From Your Git Commit Messages](https://mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/)
 - [Update NPM, pip, Gem etc. dependencies](https://github.com/renovatebot/renovate)
 - [Upgrade microservices](https://www.jhipster.tech/upgrading-an-application/#-upgrading-an-application)
@@ -179,6 +178,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 - [LocalStack: A fully functional local AWS cloud stack](https://github.com/localstack/localstack)
 - [Gitpod: cloud development environments](https://www.gitpod.io/)
 - [okteto: spin up dev and preview environments](https://www.okteto.com/)
+- [Featureflip](https://featureflip.io/) - Feature flag service with SDKs for 13 languages and a GitHub Action that removes dead flags from source.
 
 ### Project Management & Issue Tracking Software
 
